@@ -16,7 +16,6 @@
           - wget
           - python3-pip
           - make
-          - git
           - flameshot
           - mlocate
           - cherrytree

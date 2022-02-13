@@ -8,7 +8,6 @@ Our playbook will install the following software:
 - wget (apt repository)
 - python3-pip (apt repository)
 - make (apt repository)
-- git (apt repository)
 - flameshot (apt repository)
 - mlocate (apt repository)
 - cherrytree (apt repository)

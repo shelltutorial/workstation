@@ -41,7 +41,7 @@ git clone https://github.com/shelltutorial/workstation.git
 ```
 
 4. Jump inside the directory:
-5. 
+
 ```console
 cd workstation/
 ```

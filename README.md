@@ -5,12 +5,10 @@ Our playbook will install the following software:
 
 - vim (apt repository)
 - htop (apt repository)
-- wget (apt repository)
 - python3-pip (apt repository)
 - make (apt repository)
 - flameshot (apt repository)
 - mlocate (apt repository)
-- cherrytree (apt repository)
 - terminator (apt repository)
 - xpad (apt repository)
 - Zoom (third part software with third party repository)
@@ -20,7 +18,7 @@ Our playbook will install the following software:
 - Google Chrome Browser (third part software with third party repository)
 - Brave Browser (third part software with third party repository)
 
-Tested for Ubuntu 18.04.
+Tested for Ubuntu 18.04 and 20.04.
 
 1. Go to your user's directory:
 

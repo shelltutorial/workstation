@@ -13,12 +13,10 @@
       loop:
           - vim
           - htop
-          - wget
           - python3-pip
           - make
           - flameshot
           - mlocate
-          - cherrytree
           - terminator
           - xpad
 
@@ -104,7 +102,7 @@
       - name: Install Brave Repository
         become: true
         apt_repository:
-          repo: 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main'
+          repo: 'deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main'
           state: present
           filename: brave
       - name: Install Brave Browser

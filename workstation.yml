@@ -19,7 +19,8 @@
           - mlocate
           - terminator
           - xpad
-
+          - retext
+          
     - name: Installing Zoom
       become: true
       apt:

@@ -11,6 +11,7 @@ Our playbook will install the following software:
 - mlocate (apt repository)
 - terminator (apt repository)
 - xpad (apt repository)
+- retext (apt repository)
 - Zoom (third part software with third party repository)
 - VirtualBox (third part software with third party repository)
 - Vagrant (third part software with third party repository)

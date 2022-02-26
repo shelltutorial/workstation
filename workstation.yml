@@ -88,7 +88,7 @@
         apt_repository:
           repo: 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main'
           state: present
-          filename: brave
+          filename: google-chrome
       - name: Install Google Chrome
         become: true
         apt:
